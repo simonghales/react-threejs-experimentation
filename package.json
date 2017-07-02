@@ -1,0 +1,21 @@
+{
+  "name": "react-threejs-experimentation",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "~15.5.3",
+    "react-dom": "~15.5.3",
+    "react-three-renderer": "^3.1.0",
+    "three": "0.84.0",
+    "three-orbit-controls": "^82.1.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
